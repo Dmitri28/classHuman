@@ -1,0 +1,14 @@
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.csproj.AssemblyReference.cache
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.GeneratedMSBuildEditorConfig.editorconfig
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.AssemblyInfoInputs.cache
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.AssemblyInfo.cs
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.csproj.CoreCompileInputs.cache
+E:\проект на c#\classHuman\classHuman\bin\Debug\netcoreapp3.1\classHuman.exe
+E:\проект на c#\classHuman\classHuman\bin\Debug\netcoreapp3.1\classHuman.deps.json
+E:\проект на c#\classHuman\classHuman\bin\Debug\netcoreapp3.1\classHuman.runtimeconfig.json
+E:\проект на c#\classHuman\classHuman\bin\Debug\netcoreapp3.1\classHuman.runtimeconfig.dev.json
+E:\проект на c#\classHuman\classHuman\bin\Debug\netcoreapp3.1\classHuman.dll
+E:\проект на c#\classHuman\classHuman\bin\Debug\netcoreapp3.1\classHuman.pdb
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.dll
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.pdb
+E:\проект на c#\classHuman\classHuman\obj\Debug\netcoreapp3.1\classHuman.genruntimeconfig.cache
